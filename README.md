@@ -27,7 +27,7 @@ To analyze transactional data using SQL and present insights using a structured 
 - GitHub
 
 ## Team Members
-- Pawandeep Kour
+- Pawandeep Kaur
 - Tanushree Tavakari
 - Alfeeha Qureshi
 - Krishna Mishra
