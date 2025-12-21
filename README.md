@@ -6,7 +6,7 @@ Includes customer details, product information, and sales records.
 Key columns: Customer ID, Product ID, Transaction Date, Quantity, Price, and Total Amount.
 Raw data had missing values and duplicates, which were cleaned.
 Data was modeled using a star schema for efficient analysis.
-Used for SQL-based analysis of sales and customer behavio
+Used for SQL-based analysis of sales and customer behavior.
 
 ## Objective
 To analyze transactional data using SQL and present insights using a structured data model.
