@@ -16,6 +16,7 @@ To analyze transactional data using SQL and present insights using a structured 
 - Data cleaning and preprocessing
 - Data Dictionary created
 - Star Schema finalized
+- ER Diagram
 
 ## Week 2 Progress
 - Database schema creation
