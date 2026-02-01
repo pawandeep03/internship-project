@@ -23,7 +23,12 @@ To analyze transactional data using SQL and present insights using a structured 
 - Database schema creation
 - SQL queries for analysis
 - Data validation queries
-
+  
+## Week 3 Progress
+- Made interactive dashboard
+- used dax and visualization
+- data modelling
+  
 ## Tools Used
 - MySQL
 - Excel
