@@ -1,5 +1,5 @@
-#  INFOTACT SOLUTIONS - Internship Data Analytics Project
-PROJECT 1 : RETAIL-CUSTOMER BEHAVIOR & RFM ANALYSIS
+
+ RETAIL-CUSTOMER BEHAVIOR & RFM ANALYSIS
 
 📁 Dataset Description
 
